@@ -1,0 +1,4 @@
+Provider	Provider Country	SKU	Developer	Title	Version	Product Type Identifier	Units	Developer Proceeds	Begin Date	End Date	Customer Currency	Country Code	Currency of Proceeds	Apple Identifier	Customer Price	Promo Code	Parent Identifier	Subscription	Period
+APPLE	US	FAND0001	Fandango	Fandango Movies – Times & Tickets	4.6	7F	10	0	05/15/2012	05/15/2012	USD	US	USD	307906541	0	 	 	 	 
+APPLE	US	FAND0001	Fandango	Fandango Movies – Times & Tickets	4.7	7F	1495339	0	05/15/2012	05/15/2012	USD	US	USD	307906541	0	 	 	 	 
+APPLE	US	FAND0001	Fandango	Fandango Movies – Times & Tickets	4.7	1F	6042	0	05/15/2012	05/15/2012	USD	US	USD	307906541	0	 	 	 	 

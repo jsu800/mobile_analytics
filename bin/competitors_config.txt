@@ -1,0 +1,5 @@
+Disney=Disney,Disney World Wide Publishing,ABC Digital,ESPN,Marvel
+Time Warner=Time Warner,Home Box Office, inc.,Cartoon Network,Adult Swim,WB,TBS,CNN,TCM,TNT,DC Comics
+Viacom=MTV Networks,Nickelodeon,Paramount,BET
+Fox=Fox,Fox News,FX networks llc
+CBS=CBS Interactive,Showtime

@@ -1,0 +1,9 @@
+:q!#!/bin/sh
+
+rm *.class
+
+javac -classpath .:../lib/mail.jar:../lib/gson-2.1.jar ../src/MobileAnalytics.java 
+
+mv ../src/*.class .
+
+java -classpath .:../lib/mail.jar:../lib/gson-2.1.jar MobileAnalytics mobileappsupport@nbcuni.com matt2237hew 80085056 Sales Daily Summary mobileapps@fandango.com F@nd@ng0mobile1 80070699 Sales Daily Summary 20120515

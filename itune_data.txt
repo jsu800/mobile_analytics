@@ -1,0 +1,581 @@
+
+
+A-Team Action Pack
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	26	0	1.0	123	3.5	3.5	126
+
+Access2Go
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	1	0	1.0	791	2.0	2.0	792
+
+Alpha Fusion by Character Arcade
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	1	0	1.0	4	4.5	4.5	4
+
+America's Got Talent YouTube Audition
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	200	21	2.0	1	5.0	4.0	35
+
+American Pie: Das Klassentreffen
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	12	0	null	null	null	null	null
+
+American Pie: El Reencuentro ES
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	6	0	null	null	null	null	null
+
+American Pie: El Reencuentro LAS
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	2	0	null	null	null	null	null
+
+American Pie: Reunion UK
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	16	0	null	null	null	null	null
+
+Backyard Bocce by Character Arcade
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	9	0	1.0	6	3.0	3.0	6
+
+Battleship - La Película ES
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	1	0	null	null	null	null	null
+
+Battleship - der Film DE
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	6	0	null	null	null	null	null
+
+Battleship - le film FR
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	6	0	null	null	null	null	null
+
+Battleship Batalla Naval LAS
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	49	0	null	null	null	null	null
+
+Battleship Movie UK
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	2	0	null	null	null	null	null
+
+Battleship: Destroyer Experience
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	2299	0	1.0	28	4.0	4.0	28
+
+Bigode do Lorax
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	6	0	null	null	null	null	null
+
+Blackjack by Character Arcade
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	9	0	1.0	4	2.0	2.0	4
+
+Blastr
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	32	158	3.1	28	2.5	3.0	3932
+
+Bravo Now
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	584	10	1.7	252	2.0	2.0	1345
+
+Burn Notice Graphic Novel
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	15	6	1.2	76	2.0	2.5	283
+
+CNBC PRO for iPhone
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	177	280	1.2	2	5.0	2.0	31
+
+CNBC Real-Time
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	798	118	1.7	455	3.0	3.0	14178
+
+CNBC Real-Time for iPad
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPad, iOS	1517	191	1.3	4870	4.5	4.5	8790
+
+Celebrity Social Stream by Access Hollywood
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	70	39	1.2.1	7	3.0	3.5	42
+
+Character Smash by Character Arcade
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	2	0	1.0	3	2.5	2.5	3
+
+Chef Guides by Bravo
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	1	0	1.33.3	1	1.0	2.0	42
+
+Couples Retreat Translator
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	2	0	1.1	101	3.0	2.5	175
+
+Cowboys & Aliens Coca-Cola Round Up
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	4	0	1.2	10	2.5	2.5	17
+
+Cowboys & Aliens: Absolution Training Grounds
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	63	2	1.3	18	3.0	2.0	86
+
+Cylon Bobblehead
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	24	0	1.1	1087	3.0	3.0	1199
+
+Cylon Detector
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	4	0	1.0.1	478	3.0	3.0	1549
+
+DFW Weather
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	19	0	1.0	14	4.5	4.5	14
+
+DFW Weather for iPad
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPad, iOS	8	0	1.0	11	3.5	3.5	11
+
+DVICE
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	48	153	3.1	42	2.0	3.0	3751
+
+Deportes Telemundo
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	41	35	1.2.1	14	4.0	4.0	66
+
+Despicable Me Minion Photo Madness
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	40	0	1.1.1	149	4.0	3.0	478
+
+Despicable Me: iMoo
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	140	0	2.0	5503	3.5	3.5	5640
+
+Geo Trail by Character Arcade
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	1	0	1.0	2	4.5	4.5	2
+
+Ghost Hunters Haunted House Finder
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	7	5	1.3.1	10	3.0	3.0	172
+
+Guides by Bravo
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	11	22	4.1	1	4.0	2.0	4298
+
+Heroes Comic Reader
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	2	1	1.2	274	3.5	3.5	520
+
+Hop On Drums
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	113	3	1.2	169	3.5	3.5	304
+
+JOHNNY ENGLISH: JETZT ERST RECHT - SPY KIT
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	30	0	null	null	null	null	null
+
+Jay Leno’s Garage
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	10	0	1.3	131	3.5	3.0	695
+
+Johnny English Reborn Mobile Spy Kit
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	219	0	1.1.1	32	4.5	4.5	40
+
+Johnny English: La Rinascita - Kit Spia per dispositivo mobile
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	16	0	null	null	null	null	null
+
+Kit del Espía de JOHNNY ENGLISH RETURNS para iPhone
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	34	1	null	null	null	null	null
+
+Kit del Espía de Johnny English Recargado para móviles
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	304	0	null	null	null	null	null
+
+Koi King by Character Arcade
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	1	0	1.0	3	5.0	5.0	3
+
+LAND OF THE LOST
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	2	0	1.0	384	3.0	3.0	384
+
+Land of the Lost: Crystal Adventure
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	4	0	1.1	1385	3.0	3.0	1773
+
+Late Night
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	38	2	1.4	221	4.0	4.0	490
+
+Le Lorax, le film FR
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	1	0	null	null	null	null	null
+
+LifeGoesStrong
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	1	0	1.0	null	null	null	null
+
+Little Fockers
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	5	0	2.0	19	3.5	3.0	30
+
+Loved Mugs
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	5	0	1.0.2	1	5.0	5.0	1
+
+MacGruber
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	23	0	1.2	1320	3.0	3.0	3965
+
+Mind Flipper by Character Arcade
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	2	0	1.0	5	2.5	2.5	5
+
+Minion Dominion
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	16	0	1.1	74	2.5	2.5	120
+
+Minion Me
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	29	0	1.1	111	3.0	3.0	114
+
+Momtourage
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	0	1	1.2	1	4.0	4.0	6
+
+Monk Bobblehead
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	9	0	1.0	3592	4.0	4.0	3596
+
+NBC
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	7828	18117	1.4.3	167	2.5	4.0	14026
+
+NBC 5 StormTeam
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	13	0	1.0	1	1.0	1.0	1
+
+NBC 5 StormTeam HD
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPad, iOS	11	0	1.0	null	null	null	null
+
+NBC Bay Area
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	13	89	2.0.14.1	null	null	2.5	635
+
+NBC Bay Area for iPad
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPad, iOS	42	0	1.0.3	3	3.5	3.5	3
+
+NBC Chicago
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	50	6	2.0.14.1	null	null	2.0	844
+
+NBC Chicago for iPad
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPad, iOS	59	0	1.0.3	4	4.5	4.5	4
+
+NBC Connecticut
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	33	125	2.0.14.1	1	1.0	2.0	353
+
+NBC Connecticut for iPad
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPad, iOS	31	0	1.0.3	null	null	null	null
+
+NBC DFW
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	82	284	2.0.14.1	null	null	2.0	1517
+
+NBC DFW for iPad
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPad, iOS	38	0	1.0.3	2	5.0	5.0	2
+
+NBC LA
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	26	96	2.0.14.1	null	null	2.5	928
+
+NBC Live
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPad, iOS	448	179	1.5.5	18	4.0	2.0	377
+
+NBC Los Angeles for iPad
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPad, iOS	18	0	1.0.3	3	3.5	3.5	3
+
+NBC Miami
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	29	89	2.0.14.1	null	null	2.5	415
+
+NBC Miami for iPad
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPad, iOS	30	0	1.0.3	8	5.0	5.0	8
+
+NBC New York
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	91	14	2.0.8.2	9	3.0	2.5	979
+
+NBC New York for iPad
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPad, iOS	141	0	1.0.3	12	4.0	4.0	12
+
+NBC Philadelphia
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	66	5414	2.0.14.1	1	4.0	2.0	737
+
+NBC Philadelphia for iPad
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPad, iOS	39	0	1.0.3	2	4.0	4.0	2
+
+NBC San Diego
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	11	66	2.0.14.1	null	null	2.5	529
+
+NBC San Diego for iPad
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPad, iOS	15	0	1.0.3	4	5.0	5.0	4
+
+NBC Sports Talk
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	201	109	1.4.5	779	5.0	4.5	2420
+
+NBC Sports Talk for iPad
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPad, iOS	369	103	1.6.5	321	4.5	4.5	1654
+
+NBC Washington
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	55	101	2.0.14.1	null	null	2.0	502
+
+NBC Washington for iPad
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPad, iOS	64	0	1.0.3	4	3.0	3.0	4
+
+NBC4 Weather
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	214	0	1.0	null	null	null	null
+
+NBC4 Weather HD
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPad, iOS	111	0	1.0	4	3.0	3.0	4
+
+NBCU SCREEN IT
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPad, iOS	1	0	1.5.0	null	null	3.5	3
+
+Ninja Mahjong by Character Arcade
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	9	0	1.0	2	5.0	5.0	2
+
+OxygenLive
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	152	2	1.5.9	34	3.0	2.5	104
+
+Pet Places
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	1	0	1.0	4	2.0	2.0	4
+
+PetVet
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	17	0	1.0	141	3.0	3.0	141
+
+Pilgrim’s Punch-Out
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	90	0	1.1	2051	3.0	2.5	3956
+
+Powered by Bravo
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	23	0	1.0	6	2.0	2.0	6
+
+Psych Bobblehead
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	41	0	2.0	763	4.0	4.0	3927
+
+Psych Vision 2
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	15	0	2.0	45	4.5	4.5	45
+
+Real Housewives Charms
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	14	0	1.0	47	3.0	3.0	47
+
+Real Housewives Guides by Bravo
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	27	6	1.33.1	5	1.0	2.0	24
+
+Rotoworld Fantasy Baseball Draft Guide 2012
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	0	2	1.1	2	3.0	2.5	35
+
+Rotoworld Fantasy Football Draft Guide 2011
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	1	0	1.1	227	4.0	4.0	250
+
+Rotoworld Fantasy News
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	168	8	1.2.1	127	3.5	3.5	191
+
+Smash 'Em by Character Arcade
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	1	0	1.0	4	3.5	3.5	4
+
+Squirrel Assassins
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	3	0	1.0	6	5.0	5.0	6
+
+Squirrel Assassins Free
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	20	0	1.0	9	3.5	3.5	9
+
+Sudoku Today by Character Arcade
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	4	0	1.0	1	4.0	4.0	1
+
+Sun Screener by Character Arcade
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	1	0	1.0	2	3.0	3.0	2
+
+Syfy
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	159	14	1.7.3	22	2.0	3.0	559
+
+Syfy City Guide NYC
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	6	1	1.2	4	4.0	4.0	5
+
+Syfy Igniters
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	14	0	1.0	5	4.0	4.0	5
+
+Syfy for iPad
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPad, iOS	132	0	1.2	138	2.0	2.0	171
+
+Telemundo Entertainment
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	148	22	1.1	2	4.0	5.0	18
+
+Telemundo Novelas
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	365	95	2.5	1	3.0	4.0	165
+
+Television Without Pity Daily Snark
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	19	1	1.1.32	16	1.5	2.0	569
+
+The Boat That Rocked Top TrumpsTM
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	3	0	null	null	null	null	null
+
+The National Dog Show
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	7	0	1.0.1	17	4.5	4.5	19
+
+The Office Golf
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	5	0	1.1	300	2.5	3.0	334
+
+The Official Lorax App
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	326	126	4.0	34	4.0	4.0	133
+
+The Thing: Flame Thrower
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	14	0	1.3	3	3.5	3.5	20
+
+Three Card Monte by Character Arcade
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	1	0	1.0	4	4.0	4.0	4
+
+Top Chef Foodie Fight
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	95	0	1.0	358	2.5	2.5	379
+
+Top Chef Judges’ Table
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	2	0	1.1.1	9	2.0	3.0	25
+
+Truffula Shuffula – Dr. Seuss’ The Lorax Movie
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	494	780	1.3	240	4.5	4.5	1529
+
+USA Anywhere
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	707	1	1.1	595	3.0	3.0	632
+
+Universal 100
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	186	0	null	null	null	null	null
+
+Universal Sports Network
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	108	0	1.0	17	1.0	1.0	17
+
+Universal Sports for iPad
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPad, iOS	85	38	2.0	30	2.5	3.0	73
+
+Universal Studios Hollywood®
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	60	0	3.1.2	2	3.0	3.0	2
+
+Universal Studios Orlando Resort Guide
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	249	0	3.1.2	1	1.0	1.0	1
+
+WICKED® mosaic
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	11	0	1.0.1	7	4.5	4.5	12
+
+WWE Tough Enough
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	Universal, iOS	62	0	1.1	64	3.5	3.5	109
+
+Warehouse 13 Agent Profile Creator
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	14	0	1.2	23	1.5	3.0	207
+
+What’s For Dinner? by DinnerTool
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	12	0	1.2	5	2.0	2.5	14
+
+hormoneOscope
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	2	0	1.01	275	2.5	2.5	525
+
+iBloom
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	4	37	2.6	1	1.0	3.0	4188
+
+iFreak
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	5	0	1.0	392	3.5	3.5	396
+
+iGo Healthy
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	11	0	1.0.2	1	1.0	3.5	6
+
+iShop Green
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	iVillage	iPhone and iPod Touch, iOS	3	1	1.2.0	1	5.0	4.5	11
+
+iVillage
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	iVillage	iPhone and iPod Touch, iOS	25	0	1.0.2	54	4.0	3.0	86
+
+iVillage Challenges – Be Your Best Self!
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	39	15	2.4	1	5.0	2.5	10
+
+iVillage Red Carpet Fever
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	iVillage	iPhone and iPod Touch, iOS	1	0	1.3	1	5.0	5.0	7
+
+iVillage UK
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPhone and iPod Touch, iOS	37	0	null	null	null	null	null
+
+iVillage’s Great Skin! Magazine
+	Date	Brand	Platform	Downloads	Updates	Version	UserRatingCountForCurrentVersion	AverageUserRatingForCurrentVersion	AverageUserRating	UserRatingCount
+	05/15/2012	NBC Universal, Inc.	iPad, iOS	7	0	1.0	3	5.0	5.0	3
