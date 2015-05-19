@@ -1,9 +1,0 @@
-:q!#!/bin/sh
-
-rm *.class
-
-javac -classpath .:../lib/mail.jar:../lib/gson-2.1.jar ../src/MobileAnalytics.java 
-
-mv ../src/*.class .
-
-java -classpath .:../lib/mail.jar:../lib/gson-2.1.jar MobileAnalytics [CREDENTIALS TO BE INSERTED]
